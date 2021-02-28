@@ -1,0 +1,34 @@
+enable  : true
+title   : Unsere Kernkompetenzen
+subtitle: >
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.
+item    :
+  - icon  : ion-ios-flask-outline
+    title : Full-Stack Applikationsentwicklung mit Java/Spring Boot/Angular
+    description : >
+      Planung und Entwicklung von Single-Page-Applikationen (SPA) mit Hilfe von Spring Boot und Angular.
+
+  - icon  : ion-ios-lightbulb-outline
+    title : Entwicklung von ETL-Prozessen (Extraktion, Transformation und Laden) und deren Durchführung
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : ion-ios-americanfootball-outline
+    title : Datenanalyse inklusive Visualisierung von Ergebnissen
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : ion-ios-keypad-outline
+    title : Suchmaschinen-optimierung (SEO)
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : ion-ios-barcode-outline
+    title : Erstellung von statischen Webseiten mit Hilfe von Hexo.io/Hugo.io
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+  
+  - icon  : ion-ios-lightbulb-outline
+    title : Well documented.
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
