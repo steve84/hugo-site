@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://www.kelt9.ch/"
+languageCode = "de-ch"
+title = "Kelt 9"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -58,16 +58,16 @@ title   = "FATHER"
 # Homepage About Section
 [params.about]
 enable  = true
-title   = "Über die Firma XY"
+title   = "Über die Firma Kelt 9"
 content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
 image   = "images/about/about.jpg"
 
 # Call to Action
 [params.cta]
 enable  = true
-title   = "SO WHAT YOU THINK ?"
-content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-btnText = "Contact with me"
+title   = "Haben wir Sie neugierig gemacht ?"
+content = "Treten Sie via Kontaktformular mit uns in Kontakt. Wir beraten Sie gerne und begleiten SLorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+btnText = "Zum Kontaktformular"
 btnURL  = "/contact"
 
 # Portfolio Section On Homepage
