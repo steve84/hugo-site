@@ -1,24 +1,24 @@
 enable  : true
-title   : WHAT WE LOVE TO DO
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
-image   : images/team.jpg
+title   : Unsere Dienstleistungen
+subtitle: Die Firma Kelt 9 bietet folgende Dienstleistungen an. Für weitere Informationen oder Fragen nutzen Sie das Kontaktformular.
+image   : images/service.jpg
 serviceItem :
   - icon  : ion-ios-paper-outline
-    title : BRANDING
+    title : Software-Entwicklung
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-pint-outline
-    title : DESIGN
+    title : Business Analyse
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-paper-outline
-    title : DEVELOPMENT
+    title : Requirements Engineering
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-paper-outline
-    title : THEMEING
+    title : Projektleitung
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum

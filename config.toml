@@ -22,6 +22,10 @@ weight  = 3
 name    = "Kontakt"
 url     = "contact"
 weight  = 4
+[[menu.main]]
+name    = "Impressum"
+url     = "impressum"
+weight  = 5
 
 # Site Params
 [params]
@@ -59,14 +63,14 @@ title   = "FATHER"
 [params.about]
 enable  = true
 title   = "Über die Firma Kelt 9"
-content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
-image   = "images/about/about.jpg"
+content = "Kelt 9 ist Ihr Partner für effiziente und erfolgreiche IT-Projekte. Das Team bildet die komplette Bandbreite der Software-Entwicklung ab und ist seit mehreren Jahrzehnten in der Informatik tätig. Ob Business Analyse, Requirements Engineering, Projektleitung oder Software-Entwicklung – Wir bringen alles mit. Nach vielen Jahren als Angestellte von IT-Dienstleistungsfirmen, haben sich die Gründer dazu entschieden, in die Selbständigkeit zu starten. Kelt 9 freut sich auf die kommenden Herausforderungen und würde sich freuen, wenn Sie mit uns in Kontakt treten würden."
+image   = "images/about/dev.jpg"
 
 # Call to Action
 [params.cta]
 enable  = true
-title   = "Haben wir Sie neugierig gemacht ?"
-content = "Treten Sie via Kontaktformular mit uns in Kontakt. Wir beraten Sie gerne und begleiten SLorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+title   = "Haben wir Ihr Interesse geweckt?"
+content = ""
 btnText = "Zum Kontaktformular"
 btnURL  = "/contact"
 

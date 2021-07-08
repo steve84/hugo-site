@@ -1,5 +1,5 @@
 enable  : true
-title   : Why We are Different
+title   : Für was steht Kelt 9
 description: >
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   <br>
@@ -7,14 +7,14 @@ description: >
   Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
 image   : images/about/about-company.jpg
 aboutItem:
-  - title : Why Choose Us
+  - title : Leidenschaft
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      Wir leben Informatik von morgens bis abends. Wir wollen unseren Kunden das bestmögliche Resultat liefern und unterstützen Sie auf dem Weg von der Planung bis zum fertigen Produkt.
 
-  - title : What You Get
+  - title : Wissbegierig
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      Wir bleiben für Sie stets am Ball und bilden und entwickeln uns ständig weiter. Die Informatik ist sehr schnelllebig, die heutigen Technologien morgen schon wieder veraltet. Daher nehmen wir uns die Zeit, die neusten IT-Trends nicht zu verpassen und uns das nötige Know-How zu erarbeiten, damit wir Sie kompetent beraten und Sie bei Ihrem Unterfangen bestmöglich unterstützen können.
 
-  - title : Meet The Energy
+  - title : Erfahrung
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      Die gesammelten Erfahrungen, welche sich die Gründer der Firma Kelt 9 in diversen Kundenprojekten angeeignet haben, sind für die zukünftigen Aufgaben extrem wertvoll.
