@@ -2,7 +2,7 @@ enable  : true
 title   : Team
 members  :
   - name  : Patrick Zberg
-    image : images/team/team-1.jpg
+    image : images/team/patrick-zberg.jpg
     designation : Gesellschafter, Projektleiter / Business Analyst
     description : Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
     facebook    : https://www.fb.com/themefisher
@@ -13,7 +13,7 @@ members  :
   - name  : Steve Aschwanden
     image : images/team/steve-aschwanden.jpg
     designation : Gesellschafter, Senior Software Developer
-    description : Steve ist schon seit dem Jahre 2000 in der Informatik beruflich unterwegs. Was als Lernender bei einer grossen Telekommunikationsfirma begann, endete in einem kleinen Berner IT-Dienstleister. Er war die letzten Jahr bei mehreren Firmen als externer Software beziehungsweise DevOps Engineer eingesetzt. In seiner Freizeit beschäftigt er sich mit Themen wie Datenanalyse, Finanzen und der Software-Programmierung und veröffentlicht seine Erkenntnisse auf seinem eigenen Blog. Wenn er sich doch mal hinter dem Bildschirm hervor traut, ist er gerne in der Natur unterwegs oder betreibt leidenschaftlich diverse Sportarten.
+    description : Steve ist schon seit dem Jahre 2000 in der Informatik beruflich unterwegs. Was als Lernender bei einer grossen Telekommunikationsfirma begann, endete bei einem kleinen Berner IT-Dienstleister. Er wurde die letzten Jahre bei mehreren Firmen als externer Software beziehungsweise DevOps Engineer eingesetzt. In seiner Freizeit beschäftigt er sich mit Themen wie Datenanalyse, Finanzen und der Software-Programmierung und veröffentlicht seine Erkenntnisse auf seinem eigenen Blog. Wenn er sich doch mal hinter dem Bildschirm hervor traut, ist er gerne in der Natur unterwegs oder betreibt leidenschaftlich diverse Sportarten.
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher

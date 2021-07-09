@@ -1,6 +1,6 @@
 baseURL = "http://www.kelt9.ch/"
 languageCode = "de-ch"
-title = "Kelt 9"
+title = "Kelt 9 - IT-Dienstleistungen"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -11,7 +11,7 @@ name    = "Startseite"
 url     = "/"
 weight  = 1
 [[menu.main]]
-name    = "Über uns"
+name    = "Team"
 url     = "about"
 weight  = 2
 [[menu.main]]
@@ -33,8 +33,8 @@ home = "Startseite"
 logo = "images/logo.png"
 dateFormat = "6 January 2006"
 # Meta data
-description = "Airspace Hugo theme"
-author = "Themefisher"
+description = "Kelt 9 ist Ihr Partner für effiziente und erfolgreiche IT-Projekte. Das Team bildet die komplette Bandbreite der Software-Entwicklung ab und ist seit mehreren Jahrzehnten in der Informatik tätig. Ob Projektleitung, Business Analyse, oder Software-Entwicklung – Wir bringen alles mit"
+author = "S. Aschwanden / P. Zberg"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # contact form action
@@ -63,7 +63,7 @@ title   = "FATHER"
 [params.about]
 enable  = true
 title   = "Über die Firma Kelt 9"
-content = "Kelt 9 ist Ihr Partner für effiziente und erfolgreiche IT-Projekte. Das Team bildet die komplette Bandbreite der Software-Entwicklung ab und ist seit mehreren Jahrzehnten in der Informatik tätig. Ob Business Analyse, Requirements Engineering, Projektleitung oder Software-Entwicklung – Wir bringen alles mit. Nach vielen Jahren als Angestellte von IT-Dienstleistungsfirmen, haben sich die Gründer dazu entschieden, in die Selbständigkeit zu starten. Kelt 9 freut sich auf die kommenden Herausforderungen und würde sich freuen, wenn Sie mit uns in Kontakt treten würden."
+content = "Kelt 9 ist Ihr Partner für effiziente und erfolgreiche IT-Projekte. Das Team bildet die komplette Bandbreite der Software-Entwicklung ab und ist seit mehreren Jahrzehnten in der Informatik tätig. Ob Projektleitung, Business Analyse, oder Software-Entwicklung – Wir bringen alles mit. Nach vielen Jahren als Angestellte von IT-Dienstleistungsfirmen, haben sich die Gründer dazu entschieden, in die Selbständigkeit zu starten. Kelt 9 freut sich auf die kommenden Herausforderungen und würde sich freuen, wenn Sie mit uns in Kontakt treten würden."
 image   = "images/about/dev.jpg"
 
 # Call to Action
@@ -81,15 +81,15 @@ title   = "Abgeschlossene Projekte"
 subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
 # social icon
-[[params.socialIcon]]
-icon = "ion-social-facebook"
-url = "#"
+# [[params.socialIcon]]
+# icon = "ion-social-facebook"
+# url = "#"
 
-[[params.socialIcon]]
-icon = "ion-social-instagram"
-url = "#"
+# [[params.socialIcon]]
+# icon = "ion-social-instagram"
+# url = "#"
 
-[[params.socialIcon]]
-icon = "ion-social-linkedin"
-url = "#"
+# [[params.socialIcon]]
+# icon = "ion-social-linkedin"
+# url = "#"
 

@@ -3,22 +3,22 @@ title   : Unsere Dienstleistungen
 subtitle: Die Firma Kelt 9 bietet folgende Dienstleistungen an. Für weitere Informationen oder Fragen nutzen Sie das Kontaktformular.
 image   : images/service.jpg
 serviceItem :
-  - icon  : ion-ios-paper-outline
+  - icon  : ion-ios-monitor-outline
     title : Software-Entwicklung
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      Wir unterstützen Ihr Team vor Ort bei der Entwicklung von Software-Projekten in den Programmiersprachen Java und Python
 
-  - icon  : ion-ios-pint-outline
+  - icon  : ion-ios-lightbulb-outline
     title : Business Analyse
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      Wir ergänzen Ihr bestehendes Team mit einem Business Analysten und helfen Ihnen dabei, die Bedürfnise der Endkunden zu erfüllen
 
-  - icon  : ion-ios-paper-outline
-    title : Requirements Engineering
-    description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
-
-  - icon  : ion-ios-paper-outline
+  - icon  : ion-ios-person-outline
     title : Projektleitung
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      Wir leiten und unterstützen Ihr Projekt von der Planung bis zur produktiven Einführung
+
+  - icon  : ion-ios-more-outline
+    title : Diverses
+    description: >
+      Wir helfen Ihnen auch gerne bei anderen Aufgaben wie zum Beispiel der Erstellung von statischen Webseiten oder der Suchmaschinen-Optimierung weiter
